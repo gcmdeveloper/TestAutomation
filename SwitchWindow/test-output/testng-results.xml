@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15415" started-at="2017-04-26T22:27:19Z" finished-at="2017-04-26T22:27:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15415" started-at="2017-04-26T22:27:19Z" finished-at="2017-04-26T22:27:35Z">
+      <class name="TestPopUp">
+        <test-method status="PASS" signature="ScrollPageDown()[pri:0, instance:TestPopUp@55f3ddb1]" name="ScrollPageDown" duration-ms="7412" started-at="2017-04-26T15:27:19Z" description="This is to test the scrolling down of the page." finished-at="2017-04-26T15:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollPageDown -->
+        <test-method status="PASS" signature="TestPopUpWindow()[pri:0, instance:TestPopUp@55f3ddb1]" name="TestPopUpWindow" duration-ms="7968" started-at="2017-04-26T15:27:27Z" description="This is to test the switching of windows and closing them." finished-at="2017-04-26T15:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPopUpWindow -->
+      </class> <!-- TestPopUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
